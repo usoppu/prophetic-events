@@ -21,7 +21,7 @@ events = tree.xpath("//div[@class='cbp-item ']")
 print("events:",events)
 print("----------------------------------")
 
-event_details = {}
+events_details = []
 for event in events:
     event_title = event.xpath('.//a/b/text()')
     print("event_title:",event_title)
@@ -43,9 +43,10 @@ for event in events:
         "location": event_location,
         "location_details": event_location_details,
     }
+    events_details.append(event_details)
 
-print (event_details)
-print(event_details["title"])
+print (events_details)
+print(events_details[0]["title"])
 # code = code[0]
 # print("code:", code)
 time.sleep(300)
