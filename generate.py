@@ -4,6 +4,7 @@
 from lxml import html
 import requests
 import time
+import operator
 
 print ("starting")
 envPath = "/home/uso/projects/prophetic-events/"
@@ -45,8 +46,14 @@ for event in events:
     }
     events_details.append(event_details)
 
-print (events_details)
-print(events_details[0]["title"])
+# print ("all events:",events_details)
+# print("single:",events_details[0]["title"])
+
+newlist = sorted(events_details, key=operator.itemgetter('date'))
+
+for x in newlist:
+    print(x["title"],x["date"])
+
 # code = code[0]
 # print("code:", code)
 time.sleep(300)
