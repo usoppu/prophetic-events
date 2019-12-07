@@ -2,13 +2,13 @@
 layout: default
 ---
 
-[Vision New Year's Conference](https://mstarevents.com/vision2019)12-29-19
+<a target='_blank' href='https://mstarevents.com/vision2019'>'Vision New Year's Conference</a>12-29-19
 
-[Discovery Days at Heritage Communities](https://www.heritagecommunities.org/)3-10-20
+<a target='_blank' href='https://www.heritagecommunities.org/'>'Discovery Days at Heritage Communities</a>3-10-20
 
-[Kingdom Identity](https://mstarevents.com/50plus)3-12-20
+<a target='_blank' href='https://mstarevents.com/50plus'>'Kingdom Identity</a>3-12-20
 
-[Heart of David](https://mstarevents.com/heartofdavid)4-16-20
+<a target='_blank' href='https://mstarevents.com/heartofdavid'>'Heart of David</a>4-16-20
 
-[Partners Weekend 2020](https://mstarevents.com/pw20)5-29-20
+<a target='_blank' href='https://mstarevents.com/pw20'>'Partners Weekend 2020</a>5-29-20
 
