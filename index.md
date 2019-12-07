@@ -2,21 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Vision New Year's Conference](https://mstarevents.com/vision2019)12-29-19
 
-[22Link to another page](./another-page.html).
+[Discovery Days at Heritage Communities](https://www.heritagecommunities.org/)3-10-20
 
-There should be whitespace between paragraphs.
+[Kingdom Identity](https://mstarevents.com/50plus)3-12-20
 
-There should be whitespace between paragraphs.
+[Heart of David](https://mstarevents.com/heartofdavid)4-16-20
 
-Vision New Year's Conference 12-29-19
-
-Discovery Days at Heritage Communities 3-10-20
-
-Kingdom Identity 3-12-20
-
-Heart of David 4-16-20
-
-Partners Weekend 2020 5-29-20
+[Partners Weekend 2020](https://mstarevents.com/pw20)5-29-20
 
