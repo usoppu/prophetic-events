@@ -380,3 +380,16 @@ a {
 .event img {
   max-width: 40%;
 }
+
+.event-row
+{
+    display: table;
+    width: 100%;
+    /* table-layout: fixed; */
+    /* border-spacing: 10px; */
+}
+.event.column
+{
+    display: table-cell;
+    /* background-color: red; */
+}
