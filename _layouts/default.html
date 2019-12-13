@@ -25,7 +25,11 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <h2 class="project-tagline"><a href="/prophetic-events/ministries"> Ministries </a><a href="/prophetic-events/dates"> Dates </a></h2>
+      <h2 class="project-tagline">
+        <a id="ministy" href="/prophetic-events/ministry">Ministry</a>
+        <a id="date" href="/prophetic-events/date">Date</a>
+        <a id="location" href="/prophetic-events/location">Location</a>
+      </h2>
       <!-- {% if site.github.is_project_page %} -->
         <!-- <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> -->
       {% endif %}
